@@ -14,4 +14,5 @@ read at the following [link](https://medium.com/@strangeworks/bots-on-rails-part
 
 ## Branches
 `master` - starter branch for series of tutorials
+
 `adding-setup-routine` - setup flow described at part 2 of tutorial
