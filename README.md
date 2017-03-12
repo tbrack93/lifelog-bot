@@ -15,4 +15,8 @@ read at the following [link](https://medium.com/@strangeworks/bots-on-rails-part
 ## Branches
 `master` - starter branch for series of tutorials
 
-`adding-setup-routine` - setup flow described at part 2 of tutorial
+`adding-setup-routine` - WIP setup flow described at part 2 of tutorial
+
+## TODO
+- [ ] migrate to haml
+- [ ] upgrade to rails 5.1
