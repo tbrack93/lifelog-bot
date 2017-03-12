@@ -1,4 +1,5 @@
 ## Lifelog bot - example facebook messenger built on rails
+![Lifelog bot](https://cdn-images-1.medium.com/max/1600/1*CSymPh8axe0CkKTiKKedoA.png)
 This project is a part of series of tutorials that you can
 read at the following [link](https://medium.com/@strangeworks/bots-on-rails-part-one-looking-for-an-idea-and-setting-things-up-2e80e6526947#.bjxj8mb5i).
 
